@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561036446 source:c:\users\tenishi\documents\github\numeros-primos-em-c\numerosprimos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
